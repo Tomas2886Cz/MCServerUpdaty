@@ -2,7 +2,7 @@
 <img width="1920" height="17" alt="image" src="https://github.com/user-attachments/assets/1c79c004-74bf-42a1-9ba9-e4536c71ede7" />
 Vánoce se blíží a společně s nimi je tu halda sezónních dekorací od Macawa!
 Začněte věšet vánoční punčochy, zdobit stromky a připravovat dárky!
-<img width="1920" height="720" alt="image" src="https://github.com/user-attachments/assets/7d27d60f-0bd6-4772-aea2-ece6eca562fd" />  <br>
+<img width="1920" height="1009" alt="image" src="https://github.com/user-attachments/assets/7d27d60f-0bd6-4772-aea2-ece6eca562fd" />  <br>
 <img width="1920" height="17" alt="image" src="https://github.com/user-attachments/assets/1c79c004-74bf-42a1-9ba9-e4536c71ede7" />
 Svý buildy zkrášli i nesezónníma dekoracema díky novým Macaw střechám a světlům!
 <img width="1920" height="1017" alt="image" src="https://github.com/user-attachments/assets/bebaee0d-2bf3-4e7e-b0fe-047cd10e1d09" />
