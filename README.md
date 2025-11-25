@@ -1,15 +1,3 @@
-/* Example: Change GitHub background and text color */
-body {
-    background-color: #1e1e1e !important; /* Dark background */
-    color: #c0c0c0 !important;           /* Light text */
-}
-header {
-    background-color: #333 !important;
-}
-a {
-    color: #ff6347 !important; /* Change link color */
-}
-
 <img width="1132" height="222" alt="image" src="https://github.com/user-attachments/assets/938f452f-cd5c-49bb-8ee8-daa76d49c624" />  <br>
 <img width="1920" height="17" alt="image" src="https://github.com/user-attachments/assets/1c79c004-74bf-42a1-9ba9-e4536c71ede7" />
 Vánoce se blíží a společně s nimi je tu halda sezónních dekorací od Macawa!
